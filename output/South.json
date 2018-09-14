@@ -1,0 +1,496 @@
+[
+    {
+        "year": 1960,
+        "country": "South Asia",
+        "Rural population": "476302744.0",
+        "Rural population (% of total population)": "83.26445451776",
+        "Urban population": "95733363.0",
+        "Urban population (% of total)": "16.73554548224"
+    },
+    {
+        "year": 1961,
+        "country": "South Asia",
+        "Rural population": "485615906.0",
+        "Rural population (% of total population)": "83.13301890564391",
+        "Urban population": "98527330.0",
+        "Urban population (% of total)": "16.8669810943561",
+        "Urban population growth (annual %)": "2.91848830172195"
+    },
+    {
+        "year": 1962,
+        "country": "South Asia",
+        "Rural population": "494937267.0",
+        "Rural population (% of total population)": "82.94558968115909",
+        "Urban population": "101763858.0",
+        "Urban population (% of total)": "17.0544103188409",
+        "Urban population growth (annual %)": "3.2849037926837097"
+    },
+    {
+        "year": 1963,
+        "country": "South Asia",
+        "Rural population": "504459057.0",
+        "Rural population (% of total population)": "82.75633883414879",
+        "Urban population": "105112445.0",
+        "Urban population (% of total)": "17.2436611658512",
+        "Urban population growth (annual %)": "3.29054643348918"
+    },
+    {
+        "year": 1964,
+        "country": "South Asia",
+        "Rural population": "514416112.0",
+        "Rural population (% of total population)": "82.561116065394",
+        "Urban population": "108656998.0",
+        "Urban population (% of total)": "17.438883934606",
+        "Urban population growth (annual %)": "3.3721535066566"
+    },
+    {
+        "year": 1965,
+        "country": "South Asia",
+        "Rural population": "524638895.0",
+        "Rural population (% of total population)": "82.36557721266409",
+        "Urban population": "112324886.0",
+        "Urban population (% of total)": "17.6344227873358",
+        "Urban population growth (annual %)": "3.3756574058856295"
+    },
+    {
+        "year": 1966,
+        "country": "South Asia",
+        "Rural population": "535184349.0",
+        "Rural population (% of total population)": "82.16843074700009",
+        "Urban population": "116141645.0",
+        "Urban population (% of total)": "17.8315692529999",
+        "Urban population growth (annual %)": "3.39796383145227"
+    },
+    {
+        "year": 1967,
+        "country": "South Asia",
+        "Rural population": "546024617.0",
+        "Rural population (% of total population)": "81.9691455568148",
+        "Urban population": "120109711.0",
+        "Urban population (% of total)": "18.0308544431852",
+        "Urban population growth (annual %)": "3.4165746489986497"
+    },
+    {
+        "year": 1968,
+        "country": "South Asia",
+        "Rural population": "557162051.0",
+        "Rural population (% of total population)": "81.76655088626279",
+        "Urban population": "124243786.0",
+        "Urban population (% of total)": "18.233449113737198",
+        "Urban population growth (annual %)": "3.44191569988874"
+    },
+    {
+        "year": 1969,
+        "country": "South Asia",
+        "Rural population": "568512216.0",
+        "Rural population (% of total population)": "81.55851051168992",
+        "Urban population": "128548351.0",
+        "Urban population (% of total)": "18.4414894883101",
+        "Urban population growth (annual %)": "3.46461190421226"
+    },
+    {
+        "year": 1970,
+        "country": "South Asia",
+        "Rural population": "580069975.0",
+        "Rural population (% of total population)": "81.3430725972321",
+        "Urban population": "133045422.0",
+        "Urban population (% of total)": "18.6569274027679",
+        "Urban population growth (annual %)": "3.49834981547137"
+    },
+    {
+        "year": 1971,
+        "country": "South Asia",
+        "Rural population": "591567854.0",
+        "Rural population (% of total population)": "81.0956186981987",
+        "Urban population": "137901708.0",
+        "Urban population (% of total)": "18.9043813018013",
+        "Urban population growth (annual %)": "3.65009628065218"
+    },
+    {
+        "year": 1972,
+        "country": "South Asia",
+        "Rural population": "602726601.0",
+        "Rural population (% of total population)": "80.7703992455354",
+        "Urban population": "143495537.0",
+        "Urban population (% of total)": "19.229600754464602",
+        "Urban population growth (annual %)": "4.05638848214991"
+    },
+    {
+        "year": 1973,
+        "country": "South Asia",
+        "Rural population": "614143386.0",
+        "Rural population (% of total population)": "80.4388203124411",
+        "Urban population": "149347903.0",
+        "Urban population (% of total)": "19.561179687558898",
+        "Urban population growth (annual %)": "4.07843067620981"
+    },
+    {
+        "year": 1974,
+        "country": "South Asia",
+        "Rural population": "625692576.0",
+        "Rural population (% of total population)": "80.08815931140721",
+        "Urban population": "155562208.0",
+        "Urban population (% of total)": "19.9118406885928",
+        "Urban population growth (annual %)": "4.16095899250759"
+    },
+    {
+        "year": 1975,
+        "country": "South Asia",
+        "Rural population": "637364354.0",
+        "Rural population (% of total population)": "79.7083749101016",
+        "Urban population": "162255957.0",
+        "Urban population (% of total)": "20.2916250898984",
+        "Urban population growth (annual %)": "4.30294033882575"
+    },
+    {
+        "year": 1976,
+        "country": "South Asia",
+        "Rural population": "649322048.0",
+        "Rural population (% of total population)": "79.32191764292409",
+        "Urban population": "169268914.0",
+        "Urban population (% of total)": "20.678082357075898",
+        "Urban population growth (annual %)": "4.32215687464715"
+    },
+    {
+        "year": 1977,
+        "country": "South Asia",
+        "Rural population": "661526440.0",
+        "Rural population (% of total population)": "78.92777321527929",
+        "Urban population": "176615082.0",
+        "Urban population (% of total)": "21.0722267847207",
+        "Urban population growth (annual %)": "4.33993922829801"
+    },
+    {
+        "year": 1978,
+        "country": "South Asia",
+        "Rural population": "673945641.0",
+        "Rural population (% of total population)": "78.5240150555727",
+        "Urban population": "184321275.0",
+        "Urban population (% of total)": "21.4759849444272",
+        "Urban population growth (annual %)": "4.3632700631987795"
+    },
+    {
+        "year": 1979,
+        "country": "South Asia",
+        "Rural population": "686530697.0",
+        "Rural population (% of total population)": "78.1089572182533",
+        "Urban population": "192409082.0",
+        "Urban population (% of total)": "21.891042781746698",
+        "Urban population growth (annual %)": "4.38788577173199"
+    },
+    {
+        "year": 1980,
+        "country": "South Asia",
+        "Rural population": "699219041.0",
+        "Rural population (% of total population)": "77.68364725641541",
+        "Urban population": "200866199.0",
+        "Urban population (% of total)": "22.3163527435846",
+        "Urban population growth (annual %)": "4.39538347779238"
+    },
+    {
+        "year": 1981,
+        "country": "South Asia",
+        "Rural population": "712419667.0",
+        "Rural population (% of total population)": "77.3090549028965",
+        "Urban population": "209101968.0",
+        "Urban population (% of total)": "22.690945097103402",
+        "Urban population growth (annual %)": "4.1001268710222405"
+    },
+    {
+        "year": 1982,
+        "country": "South Asia",
+        "Rural population": "727164119.0",
+        "Rural population (% of total population)": "77.0576494990322",
+        "Urban population": "216498351.0",
+        "Urban population (% of total)": "22.9423505009678",
+        "Urban population growth (annual %)": "3.5372134804584996"
+    },
+    {
+        "year": 1983,
+        "country": "South Asia",
+        "Rural population": "741990769.0",
+        "Rural population (% of total population)": "76.8025627750616",
+        "Urban population": "224110807.0",
+        "Urban population (% of total)": "23.1974372249383",
+        "Urban population growth (annual %)": "3.5161727398099303"
+    },
+    {
+        "year": 1984,
+        "country": "South Asia",
+        "Rural population": "756950052.0",
+        "Rural population (% of total population)": "76.5447590210965",
+        "Urban population": "231948551.0",
+        "Urban population (% of total)": "23.4552409789035",
+        "Urban population growth (annual %)": "3.49726285176422"
+    },
+    {
+        "year": 1985,
+        "country": "South Asia",
+        "Rural population": "772103105.0",
+        "Rural population (% of total population)": "76.2864233609527",
+        "Urban population": "240007663.0",
+        "Urban population (% of total)": "23.7135766390473",
+        "Urban population growth (annual %)": "3.47452569341552"
+    },
+    {
+        "year": 1986,
+        "country": "South Asia",
+        "Rural population": "787410075.0",
+        "Rural population (% of total population)": "76.0265915845474",
+        "Urban population": "248293433.0",
+        "Urban population (% of total)": "23.9734084154526",
+        "Urban population growth (annual %)": "3.45229393779813"
+    },
+    {
+        "year": 1987,
+        "country": "South Asia",
+        "Rural population": "802787558.0",
+        "Rural population (% of total population)": "75.7653938652604",
+        "Urban population": "256782673.0",
+        "Urban population (% of total)": "24.2346061347395",
+        "Urban population growth (annual %)": "3.4190352509242703"
+    },
+    {
+        "year": 1988,
+        "country": "South Asia",
+        "Rural population": "818226795.0",
+        "Rural population (% of total population)": "75.5022609992679",
+        "Urban population": "265484850.0",
+        "Urban population (% of total)": "24.497739000732103",
+        "Urban population growth (annual %)": "3.3889268689091097"
+    },
+    {
+        "year": 1989,
+        "country": "South Asia",
+        "Rural population": "833738693.0",
+        "Rural population (% of total population)": "75.2382081524875",
+        "Urban population": "274393349.0",
+        "Urban population (% of total)": "24.761791847512498",
+        "Urban population growth (annual %)": "3.35555833035295"
+    },
+    {
+        "year": 1990,
+        "country": "South Asia",
+        "Rural population": "849286467.0",
+        "Rural population (% of total population)": "74.97428712415571",
+        "Urban population": "283483847.0",
+        "Urban population (% of total)": "25.0257165987294",
+        "Urban population growth (annual %)": "3.31294400288107"
+    },
+    {
+        "year": 1991,
+        "country": "South Asia",
+        "Rural population": "865089009.0",
+        "Rural population (% of total population)": "74.7239402434456",
+        "Urban population": "292624312.0",
+        "Urban population (% of total)": "25.2760609164584",
+        "Urban population growth (annual %)": "3.22433362490668"
+    },
+    {
+        "year": 1992,
+        "country": "South Asia",
+        "Rural population": "881170379.0",
+        "Rural population (% of total population)": "74.50093006500421",
+        "Urban population": "301593888.0",
+        "Urban population (% of total)": "25.4990703063273",
+        "Urban population growth (annual %)": "3.0652189965678596"
+    },
+    {
+        "year": 1993,
+        "country": "South Asia",
+        "Rural population": "897301225.0",
+        "Rural population (% of total population)": "74.2773511575869",
+        "Urban population": "310740272.0",
+        "Urban population (% of total)": "25.7226488270498",
+        "Urban population growth (annual %)": "3.03268214772309"
+    },
+    {
+        "year": 1994,
+        "country": "South Asia",
+        "Rural population": "913395840.0",
+        "Rural population (% of total population)": "74.0515400244989",
+        "Urban population": "320063776.0",
+        "Urban population (% of total)": "25.9484590166503",
+        "Urban population growth (annual %)": "3.00041701707721"
+    },
+    {
+        "year": 1995,
+        "country": "South Asia",
+        "Rural population": "929414365.0",
+        "Rural population (% of total population)": "73.82363738298241",
+        "Urban population": "329551458.0",
+        "Urban population (% of total)": "26.1763630147072",
+        "Urban population growth (annual %)": "2.96430983804927"
+    },
+    {
+        "year": 1996,
+        "country": "South Asia",
+        "Rural population": "945255708.0",
+        "Rural population (% of total population)": "73.5911129320337",
+        "Urban population": "339214210.0",
+        "Urban population (% of total)": "26.408887795792104",
+        "Urban population growth (annual %)": "2.9320920194502698"
+    },
+    {
+        "year": 1997,
+        "country": "South Asia",
+        "Rural population": "960979052.0",
+        "Rural population (% of total population)": "73.3560964283686",
+        "Urban population": "349040291.0",
+        "Urban population (% of total)": "26.6439033558698",
+        "Urban population growth (annual %)": "2.89671856612375"
+    },
+    {
+        "year": 1998,
+        "country": "South Asia",
+        "Rural population": "976534815.0",
+        "Rural population (% of total population)": "73.1184063299123",
+        "Urban population": "359017837.0",
+        "Urban population (% of total)": "26.8815937371972",
+        "Urban population growth (annual %)": "2.8585656891971802"
+    },
+    {
+        "year": 1999,
+        "country": "South Asia",
+        "Rural population": "991959956.0",
+        "Rural population (% of total population)": "72.8782740613134",
+        "Urban population": "369158935.0",
+        "Urban population (% of total)": "27.121725897070103",
+        "Urban population growth (annual %)": "2.8246780396039104"
+    },
+    {
+        "year": 2000,
+        "country": "South Asia",
+        "Rural population": "1007006755.0",
+        "Rural population (% of total population)": "72.63430342063371",
+        "Urban population": "379399815.0",
+        "Urban population (% of total)": "27.365695200873297",
+        "Urban population growth (annual %)": "2.77411137292395"
+    },
+    {
+        "year": 2001,
+        "country": "South Asia",
+        "Rural population": "1021042379.0",
+        "Rural population (% of total population)": "72.34825361601901",
+        "Urban population": "390245837.0",
+        "Urban population (% of total)": "27.651740650884104",
+        "Urban population growth (annual %)": "2.8587314941099704"
+    },
+    {
+        "year": 2002,
+        "country": "South Asia",
+        "Rural population": "1034235582.0",
+        "Rural population (% of total population)": "71.9964132765105",
+        "Urban population": "402274287.0",
+        "Urban population (% of total)": "28.003576999008498",
+        "Urban population growth (annual %)": "3.08227503269944"
+    },
+    {
+        "year": 2003,
+        "country": "South Asia",
+        "Rural population": "1047174083.0",
+        "Rural population (% of total population)": "71.6412748318096",
+        "Urban population": "414516940.0",
+        "Urban population (% of total)": "28.3587073455407",
+        "Urban population growth (annual %)": "3.04335956724971"
+    },
+    {
+        "year": 2004,
+        "country": "South Asia",
+        "Rural population": "1059666505.0",
+        "Rural population (% of total population)": "71.2807180857028",
+        "Urban population": "426943806.0",
+        "Urban population (% of total)": "28.7192512660791",
+        "Urban population growth (annual %)": "2.99791511536296"
+    },
+    {
+        "year": 2005,
+        "country": "South Asia",
+        "Rural population": "1071633047.0",
+        "Rural population (% of total population)": "70.9157430517045",
+        "Urban population": "439502566.0",
+        "Urban population (% of total)": "29.084207447783697",
+        "Urban population growth (annual %)": "2.94154870582663"
+    },
+    {
+        "year": 2006,
+        "country": "South Asia",
+        "Rural population": "1083079509.0",
+        "Rural population (% of total population)": "70.5457076761978",
+        "Urban population": "452208102.0",
+        "Urban population (% of total)": "29.454209344053503",
+        "Urban population growth (annual %)": "2.89089006137908"
+    },
+    {
+        "year": 2007,
+        "country": "South Asia",
+        "Rural population": "1093987559.0",
+        "Rural population (% of total population)": "70.1698412612793",
+        "Urban population": "465069065.0",
+        "Urban population (% of total)": "29.830019713786303",
+        "Urban population growth (annual %)": "2.8440363945536"
+    },
+    {
+        "year": 2008,
+        "country": "South Asia",
+        "Rural population": "1104464917.0",
+        "Rural population (% of total population)": "69.7890389345967",
+        "Urban population": "478111564.0",
+        "Urban population (% of total)": "30.210770970014",
+        "Urban population growth (annual %)": "2.8044219625745397"
+    },
+    {
+        "year": 2009,
+        "country": "South Asia",
+        "Rural population": "1114599477.0",
+        "Rural population (% of total population)": "69.40537299499731",
+        "Urban population": "491327311.0",
+        "Urban population (% of total)": "30.5944573176618",
+        "Urban population growth (annual %)": "2.7641554806651802"
+    },
+    {
+        "year": 2010,
+        "country": "South Asia",
+        "Rural population": "1124456052.0",
+        "Rural population (% of total population)": "69.01791000038399",
+        "Urban population": "504767510.0",
+        "Urban population (% of total)": "30.9818997879673",
+        "Urban population growth (annual %)": "2.7354878711393305"
+    },
+    {
+        "year": 2011,
+        "country": "South Asia",
+        "Rural population": "1134040035.0",
+        "Rural population (% of total population)": "68.6262223444827",
+        "Urban population": "518447886.0",
+        "Urban population (% of total)": "31.373550370874",
+        "Urban population growth (annual %)": "2.7102330734400897"
+    },
+    {
+        "year": 2012,
+        "country": "South Asia",
+        "Rural population": "1142634942.0",
+        "Rural population (% of total population)": "68.2201350593439",
+        "Urban population": "532288365.0",
+        "Urban population (% of total)": "31.779612474600302",
+        "Urban population growth (annual %)": "2.66959888809346"
+    },
+    {
+        "year": 2013,
+        "country": "South Asia",
+        "Rural population": "1151447656.0",
+        "Rural population (% of total population)": "67.8121124993945",
+        "Urban population": "546549376.0",
+        "Urban population (% of total)": "32.1876105001167",
+        "Urban population growth (annual %)": "2.6791889392510098"
+    },
+    {
+        "year": 2014,
+        "country": "South Asia",
+        "Rural population": "1159890922.0",
+        "Rural population (% of total population)": "67.3955289117391",
+        "Urban population": "561129658.0",
+        "Urban population (% of total)": "32.604169977253",
+        "Urban population growth (annual %)": "2.6676971267825698"
+    }
+]

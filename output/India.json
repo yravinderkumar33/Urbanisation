@@ -1,0 +1,497 @@
+[
+    {
+        "year": 1960,
+        "country": "India",
+        "Rural population": "369064480.0",
+        "Rural population (% of total population)": "82.076",
+        "Urban population": "80597394.0",
+        "Urban population (% of total)": "17.924",
+        "Urban population growth (annual %)": "2.3379079247220598"
+    },
+    {
+        "year": 1961,
+        "country": "India",
+        "Rural population": "375980213.0",
+        "Rural population (% of total population)": "81.968",
+        "Urban population": "82711244.0",
+        "Urban population (% of total)": "18.032",
+        "Urban population growth (annual %)": "2.5889237609997497"
+    },
+    {
+        "year": 1962,
+        "country": "India",
+        "Rural population": "382784041.0",
+        "Rural population (% of total population)": "81.782",
+        "Urban population": "85270104.0",
+        "Urban population (% of total)": "18.218",
+        "Urban population growth (annual %)": "3.0468358314757205"
+    },
+    {
+        "year": 1963,
+        "country": "India",
+        "Rural population": "389803759.0",
+        "Rural population (% of total population)": "81.595",
+        "Urban population": "87926199.0",
+        "Urban population (% of total)": "18.405",
+        "Urban population growth (annual %)": "3.06739024807622"
+    },
+    {
+        "year": 1964,
+        "country": "India",
+        "Rural population": "397004137.0",
+        "Rural population (% of total population)": "81.405",
+        "Urban population": "90685977.0",
+        "Urban population (% of total)": "18.595",
+        "Urban population growth (annual %)": "3.0904921678980397"
+    },
+    {
+        "year": 1965,
+        "country": "India",
+        "Rural population": "404385947.0",
+        "Rural population (% of total population)": "81.215",
+        "Urban population": "93534323.0",
+        "Urban population (% of total)": "18.785",
+        "Urban population growth (annual %)": "3.09257232741794"
+    },
+    {
+        "year": 1966,
+        "country": "India",
+        "Rural population": "411923288.0",
+        "Rural population (% of total population)": "81.023",
+        "Urban population": "96479620.0",
+        "Urban population (% of total)": "18.977",
+        "Urban population growth (annual %)": "3.1003334488637"
+    },
+    {
+        "year": 1967,
+        "country": "India",
+        "Rural population": "419633509.0",
+        "Rural population (% of total population)": "80.829",
+        "Urban population": "99528560.0",
+        "Urban population (% of total)": "19.171",
+        "Urban population growth (annual %)": "3.1112843822725402"
+    },
+    {
+        "year": 1968,
+        "country": "India",
+        "Rural population": "427581725.0",
+        "Rural population (% of total population)": "80.634",
+        "Urban population": "102693004.0",
+        "Urban population (% of total)": "19.366",
+        "Urban population growth (annual %)": "3.12993557204584"
+    },
+    {
+        "year": 1969,
+        "country": "India",
+        "Rural population": "435849159.0",
+        "Rural population (% of total population)": "80.438",
+        "Urban population": "105995689.0",
+        "Urban population (% of total)": "19.562",
+        "Urban population growth (annual %)": "3.16544295995371"
+    },
+    {
+        "year": 1970,
+        "country": "India",
+        "Rural population": "444484045.0",
+        "Rural population (% of total population)": "80.24",
+        "Urban population": "109459181.0",
+        "Urban population (% of total)": "19.76",
+        "Urban population growth (annual %)": "3.21532800288001"
+    },
+    {
+        "year": 1971,
+        "country": "India",
+        "Rural population": "453335316.0",
+        "Rural population (% of total population)": "80.009",
+        "Urban population": "113270086.0",
+        "Urban population (% of total)": "19.991",
+        "Urban population growth (annual %)": "3.4223404957641805"
+    },
+    {
+        "year": 1972,
+        "country": "India",
+        "Rural population": "461979346.0",
+        "Rural population (% of total population)": "79.679",
+        "Urban population": "117821286.0",
+        "Urban population (% of total)": "20.321",
+        "Urban population growth (annual %)": "3.93938425288408"
+    },
+    {
+        "year": 1973,
+        "country": "India",
+        "Rural population": "470886270.0",
+        "Rural population (% of total population)": "79.347",
+        "Urban population": "122565619.0",
+        "Urban population (% of total)": "20.653",
+        "Urban population growth (annual %)": "3.94776008844679"
+    },
+    {
+        "year": 1974,
+        "country": "India",
+        "Rural population": "479937420.0",
+        "Rural population (% of total population)": "79.009",
+        "Urban population": "127509099.0",
+        "Urban population (% of total)": "20.991",
+        "Urban population growth (annual %)": "3.95411748845661"
+    },
+    {
+        "year": 1975,
+        "country": "India",
+        "Rural population": "489081820.0",
+        "Rural population (% of total population)": "78.668",
+        "Urban population": "132621821.0",
+        "Urban population (% of total)": "21.332",
+        "Urban population growth (annual %)": "3.93139000490685"
+    },
+    {
+        "year": 1976,
+        "country": "India",
+        "Rural population": "498277462.0",
+        "Rural population (% of total population)": "78.323",
+        "Urban population": "137905348.0",
+        "Urban population (% of total)": "21.677",
+        "Urban population growth (annual %)": "3.90659389660606"
+    },
+    {
+        "year": 1977,
+        "country": "India",
+        "Rural population": "507538660.0",
+        "Rural population (% of total population)": "77.974",
+        "Urban population": "143368899.0",
+        "Urban population (% of total)": "22.026",
+        "Urban population growth (annual %)": "3.88534560246936"
+    },
+    {
+        "year": 1978,
+        "country": "India",
+        "Rural population": "516906520.0",
+        "Rural population (% of total population)": "77.621",
+        "Urban population": "149029915.0",
+        "Urban population (% of total)": "22.379",
+        "Urban population growth (annual %)": "3.87260358077303"
+    },
+    {
+        "year": 1979,
+        "country": "India",
+        "Rural population": "526444872.0",
+        "Rural population (% of total population)": "77.264",
+        "Urban population": "154913681.0",
+        "Urban population (% of total)": "22.736",
+        "Urban population growth (annual %)": "3.8721007414872903"
+    },
+    {
+        "year": 1980,
+        "country": "India",
+        "Rural population": "536183618.0",
+        "Rural population (% of total population)": "76.902",
+        "Urban population": "161046127.0",
+        "Urban population (% of total)": "23.098",
+        "Urban population growth (annual %)": "3.88227620354262"
+    },
+    {
+        "year": 1981,
+        "country": "India",
+        "Rural population": "546466732.0",
+        "Rural population (% of total population)": "76.583",
+        "Urban population": "167094674.0",
+        "Urban population (% of total)": "23.417",
+        "Urban population growth (annual %)": "3.6869734907651"
+    },
+    {
+        "year": 1982,
+        "country": "India",
+        "Rural population": "557608602.0",
+        "Rural population (% of total population)": "76.583",
+        "Urban population": "172694859.0",
+        "Urban population (% of total)": "23.647",
+        "Urban population growth (annual %)": "3.2965654361537404"
+    },
+    {
+        "year": 1983,
+        "country": "India",
+        "Rural population": "568909214.0",
+        "Rural population (% of total population)": "76.121",
+        "Urban population": "178465642.0",
+        "Urban population (% of total)": "23.879",
+        "Urban population growth (annual %)": "3.2869884574915"
+    },
+    {
+        "year": 1984,
+        "country": "India",
+        "Rural population": "580280781.0",
+        "Rural population (% of total population)": "75.887",
+        "Urban population": "184383497.0",
+        "Urban population (% of total)": "24.113",
+        "Urban population growth (annual %)": "3.26217105559335"
+    },
+    {
+        "year": 1985,
+        "country": "India",
+        "Rural population": "591663040.0",
+        "Rural population (% of total population)": "75.652",
+        "Urban population": "190422087.0",
+        "Urban population (% of total)": "24.348",
+        "Urban population growth (annual %)": "3.2225307324767702"
+    },
+    {
+        "year": 1986,
+        "country": "India",
+        "Rural population": "603023796.0",
+        "Rural population (% of total population)": "75.415",
+        "Urban population": "196583439.0",
+        "Urban population (% of total)": "24.585",
+        "Urban population growth (annual %)": "3.1843848354746602"
+    },
+    {
+        "year": 1987,
+        "country": "India",
+        "Rural population": "614370682.0",
+        "Rural population (% of total population)": "75.177",
+        "Urban population": "202861559.0",
+        "Urban population (% of total)": "24.823",
+        "Urban population growth (annual %)": "3.1436803885919304"
+    },
+    {
+        "year": 1988,
+        "country": "India",
+        "Rural population": "625682283.0",
+        "Rural population (% of total population)": "74.937",
+        "Urban population": "209262114.0",
+        "Urban population (% of total)": "25.063",
+        "Urban population growth (annual %)": "3.10638291456523"
+    },
+    {
+        "year": 1989,
+        "country": "India",
+        "Rural population": "636951275.0",
+        "Rural population (% of total population)": "74.695",
+        "Urban population": "215784885.0",
+        "Urban population (% of total)": "25.305",
+        "Urban population growth (annual %)": "3.0694408498718397"
+    },
+    {
+        "year": 1990,
+        "country": "India",
+        "Rural population": "648189140.0",
+        "Rural population (% of total population)": "74.453",
+        "Urban population": "222412636.0",
+        "Urban population (% of total)": "25.547",
+        "Urban population growth (annual %)": "3.02523686434741"
+    },
+    {
+        "year": 1991,
+        "country": "India",
+        "Rural population": "659472764.0",
+        "Rural population (% of total population)": "74.222",
+        "Urban population": "229041105.0",
+        "Urban population (% of total)": "25.778",
+        "Urban population growth (annual %)": "2.9367107953837"
+    },
+    {
+        "year": 1992,
+        "country": "India",
+        "Rural population": "670926439.0",
+        "Rural population (% of total population)": "74.016",
+        "Urban population": "235534919.0",
+        "Urban population (% of total)": "25.984",
+        "Urban population growth (annual %)": "2.79576932101362"
+    },
+    {
+        "year": 1993,
+        "country": "India",
+        "Rural population": "682346220.0",
+        "Rural population (% of total population)": "73.809",
+        "Urban population": "242129413.0",
+        "Urban population (% of total)": "26.191",
+        "Urban population growth (annual %)": "2.76131692107723"
+    },
+    {
+        "year": 1994,
+        "country": "India",
+        "Rural population": "693766125.0",
+        "Rural population (% of total population)": "73.601",
+        "Urban population": "248838086.0",
+        "Urban population (% of total)": "26.399",
+        "Urban population growth (annual %)": "2.73300802438622"
+    },
+    {
+        "year": 1995,
+        "country": "India",
+        "Rural population": "705214976.0",
+        "Rural population (% of total population)": "73.393",
+        "Urban population": "255660006.0",
+        "Urban population (% of total)": "26.607",
+        "Urban population growth (annual %)": "2.70460322807459"
+    },
+    {
+        "year": 1996,
+        "country": "India",
+        "Rural population": "716674117.0",
+        "Rural population (% of total population)": "73.183",
+        "Urban population": "262616315.0",
+        "Urban population (% of total)": "26.817",
+        "Urban population growth (annual %)": "2.68456284431139"
+    },
+    {
+        "year": 1997,
+        "country": "India",
+        "Rural population": "728127204.0",
+        "Rural population (% of total population)": "72.972",
+        "Urban population": "269690046.0",
+        "Urban population (% of total)": "27.028",
+        "Urban population growth (annual %)": "2.65792331377261"
+    },
+    {
+        "year": 1998,
+        "country": "India",
+        "Rural population": "739534755.0",
+        "Rural population (% of total population)": "72.76",
+        "Urban population": "276868152.0",
+        "Urban population (% of total)": "27.24",
+        "Urban population growth (annual %)": "2.62680855213011"
+    },
+    {
+        "year": 1999,
+        "country": "India",
+        "Rural population": "750844493.0",
+        "Rural population (% of total population)": "72.547",
+        "Urban population": "284132133.0",
+        "Urban population (% of total)": "27.453",
+        "Urban population growth (annual %)": "2.5897979694275"
+    },
+    {
+        "year": 2000,
+        "country": "India",
+        "Rural population": "762014464.0",
+        "Rural population (% of total population)": "72.333",
+        "Urban population": "291466608.0",
+        "Urban population (% of total)": "27.667",
+        "Urban population growth (annual %)": "2.5486059908359797"
+    },
+    {
+        "year": 2001,
+        "country": "India",
+        "Rural population": "772638445.0",
+        "Rural population (% of total population)": "72.082",
+        "Urban population": "299249745.0",
+        "Urban population (% of total)": "27.918",
+        "Urban population growth (annual %)": "2.63530453940731"
+    },
+    {
+        "year": 2002,
+        "country": "India",
+        "Rural population": "782276276.0",
+        "Rural population (% of total population)": "71.756",
+        "Urban population": "307913082.0",
+        "Urban population (% of total)": "28.244",
+        "Urban population growth (annual %)": "2.8539049541200203"
+    },
+    {
+        "year": 2003,
+        "country": "India",
+        "Rural population": "791686221.0",
+        "Rural population (% of total population)": "71.428",
+        "Urban population": "316683356.0",
+        "Urban population (% of total)": "28.572",
+        "Urban population growth (annual %)": "2.80848558470152"
+    },
+    {
+        "year": 2004,
+        "country": "India",
+        "Rural population": "800850345.0",
+        "Rural population (% of total population)": "71.097",
+        "Urban population": "325568976.0",
+        "Urban population (% of total)": "28.903",
+        "Urban population growth (annual %)": "2.7671949337822794"
+    },
+    {
+        "year": 2005,
+        "country": "India",
+        "Rural population": "809782501.0",
+        "Rural population (% of total population)": "70.765",
+        "Urban population": "334543792.0",
+        "Urban population (% of total)": "29.235",
+        "Urban population growth (annual %)": "2.7193441753608703"
+    },
+    {
+        "year": 2006,
+        "country": "India",
+        "Rural population": "818470414.0",
+        "Rural population (% of total population)": "70.431",
+        "Urban population": "343617891.0",
+        "Urban population (% of total)": "29.569",
+        "Urban population growth (annual %)": "2.67624692340918"
+    },
+    {
+        "year": 2007,
+        "country": "India",
+        "Rural population": "826888846.0",
+        "Rural population (% of total population)": "70.094",
+        "Urban population": "352796785.0",
+        "Urban population (% of total)": "29.906",
+        "Urban population growth (annual %)": "2.63619532581908"
+    },
+    {
+        "year": 2008,
+        "country": "India",
+        "Rural population": "835004284.0",
+        "Rural population (% of total population)": "69.754",
+        "Urban population": "362065825.0",
+        "Urban population (% of total)": "30.246",
+        "Urban population growth (annual %)": "2.5933821032676203"
+    },
+    {
+        "year": 2009,
+        "country": "India",
+        "Rural population": "842800278.0",
+        "Rural population (% of total population)": "69.413",
+        "Urban population": "371381904.0",
+        "Urban population (% of total)": "30.587",
+        "Urban population growth (annual %)": "2.54048916715852"
+    },
+    {
+        "year": 2010,
+        "country": "India",
+        "Rural population": "850240997.0",
+        "Rural population (% of total population)": "69.07",
+        "Urban population": "380743507.0",
+        "Urban population (% of total)": "30.93",
+        "Urban population growth (annual %)": "2.48950144617754"
+    },
+    {
+        "year": 2011,
+        "country": "India",
+        "Rural population": "857294797.0",
+        "Rural population (% of total population)": "68.724",
+        "Urban population": "390151214.0",
+        "Urban population (% of total)": "31.276",
+        "Urban population growth (annual %)": "2.44084537363039"
+    },
+    {
+        "year": 2012,
+        "country": "India",
+        "Rural population": "863903600.0",
+        "Rural population (% of total population)": "68.369",
+        "Urban population": "399686039.0",
+        "Urban population (% of total)": "31.631",
+        "Urban population growth (annual %)": "2.4144944229070697"
+    },
+    {
+        "year": 2013,
+        "country": "India",
+        "Rural population": "870136004.0",
+        "Rural population (% of total population)": "68.006",
+        "Urban population": "409362870.0",
+        "Urban population (% of total)": "31.994",
+        "Urban population growth (annual %)": "2.39226390054379"
+    },
+    {
+        "year": 2014,
+        "country": "India",
+        "Rural population": "876057482.0",
+        "Rural population (% of total population)": "67.634",
+        "Urban population": "419234061.0",
+        "Urban population (% of total)": "32.366",
+        "Urban population growth (annual %)": "2.3827406675360097"
+    }
+]
